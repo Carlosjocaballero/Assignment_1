@@ -50,3 +50,35 @@ body{
   /* border: 2px solid red; */
   box-shadow: 2px 2px 7px 1px #1C6EA4;
 }
+
+.buttons-div{
+  font-size: 20px;
+  padding: 10px;
+  padding-top: 0px;
+}
+
+button {
+  font-size: 25px;
+  line-height: 20px; 
+  padding: 13px; 
+  margin-left: 35px; 
+  margin-bottom: 30px; 
+  border-radius: 10px; 
+  background-image: linear-gradient(to bottom, rgb(146, 219, 255) 0%, rgb(59, 177, 255) 100%); 
+  box-shadow: #30ba50 2px 2px 2px 3px; 
+  border: 2px solid rgb(28, 110, 164); 
+  display: inline-block;
+}
+
+#home {
+  background-image: linear-gradient(to bottom, rgb(255, 146, 146) 0%, rgb(255, 59, 59) 100%); 
+  border: 2px solid rgb(164, 28, 28); 
+}
+
+button:hover {
+  background: #59bdff; 
+}
+
+button:active {
+  background: #009cf6; 
+}
