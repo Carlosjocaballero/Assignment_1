@@ -52,6 +52,7 @@ section{
     border-radius: 10px;
     text-decoration: none;
     color: black;
+    height:fit-content;
 }
 
 .animal-container:hover{
@@ -96,10 +97,15 @@ img{
     text-align: center;
     font-size: xx-large;
     padding: 10px;
-    background-color: white;
+    background-color: #CBDCCE;
     border-radius: 5px;
     line-height: 25px;
     text-decoration: none;
     color: black;
+}
+
+.home-button:hover{
+    background-color: #7EA885;
+    color: #E5EEE7   
 }
 
