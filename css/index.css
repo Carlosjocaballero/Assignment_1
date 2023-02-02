@@ -14,14 +14,14 @@ body{
 
 .mid-container{
   border: 3px solid rgb(26, 134, 26);
-  width: 70%;
-  max-width: 1200px;
+  width: 80%;
+  height: 80%;
+  max-width: 1600px;
   background-color: #F1F6DF;
   text-align: center;
   position: absolute;
   top: 5%;
   bottom: 5%;
-  /* overflow:hidden; */
   overflow: scroll;
 }
 
@@ -34,8 +34,8 @@ body{
 .zoo-sections{
   background-color: rgb(206, 255, 216);
   float: left;
-  width: 42%;
-  margin: 4%;
+  width: 46%;
+  margin: 2%;
   /* border: 2px solid red; */
   box-shadow: 2px 2px 7px 1px #1C6EA4;
   margin-top: 0px;
@@ -47,8 +47,8 @@ h1{
 
 .zoo-pic{
   /* border: 2px solid red; */
-  width: 85%;
-  height: 85%;
+  width: 95%;
+  height: 95%;
 }
 
 button {
