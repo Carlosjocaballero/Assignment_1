@@ -28,7 +28,6 @@ body{
 #title{
   margin: 20px;
   font-size: 100px;
-  /* border: 2px solid red; */
 }
 
 .zoo-sections{
@@ -36,7 +35,6 @@ body{
   float: left;
   width: 46%;
   margin: 2%;
-  /* border: 2px solid red; */
   box-shadow: 2px 2px 7px 1px #1C6EA4;
   margin-top: 0px;
 }
@@ -46,7 +44,6 @@ h1{
 }
 
 .zoo-pic{
-  /* border: 2px solid red; */
   width: 95%;
   height: 95%;
 }
